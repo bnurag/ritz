@@ -1,0 +1,6 @@
+{
+  "name": "Ritz Media World",
+  "description": "A modern landing page for a creative media agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
